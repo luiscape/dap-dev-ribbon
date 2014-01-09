@@ -38,5 +38,7 @@ Idea from GitHub <a href="https://github.com/blog/273-github-ribbons">https://gi
 DAP version created by Luis Capelo (capelo@un.org)
 the original Illustrator file (CS5) (`DAP-Dev-Ribbon.ai`) is also incldued in the GitHub repo. 
 
+PNG compressed with PNGOUT (<a href="http://advsys.net/ken/utils.htm">http://advsys.net/ken/utils.htm</a>).
+
 =======
 
