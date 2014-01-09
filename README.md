@@ -25,3 +25,5 @@ Just copy and paste one of the following snipped into the page's HTML:
 ```
 
 Make sure to change the link to a to-be-created page that explains why the page visited is a development page and other details. The image link should also be updated to the DAP servers. 
+
+Take a look at the `test.html` file file for a brief example. 
