@@ -14,13 +14,13 @@ Just copy and paste one of the following snipped into the page's HTML:
 
 ```html
 
+
 <!-- Left hand-side ribbon. -->
 <a href="#"><img style="position: absolute; top: 0; left: 0; border: 0;" src="dap-dev-ribbon-left.png" alt="This is a DEVELPMENT page."></a>
 
 
 <!-- Right hand-side ribbon. -->
 <a href="#"><img style="position: absolute; top: 0; right: 0; border: 0;" src="dap-dev-ribbon-right.png" alt="This is a DEVELPMENT page."></a>
-
 
 ```
 
